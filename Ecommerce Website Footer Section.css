@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.fly-bg-container {
+    background-color: #0d2436;
+}
+
+.fly-image {
+    width: 200px;
+    height: 70px;
+}
+
+.footer-icon {
+    height: 40px;
+    width: 40px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    background-color: #152c3e;
+    border-radius: 40px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    color: #5a7184;
+}
+
+.add-nagar {
+    font-size: 20px;
+    color: #5a7184;
+    font-weight: 500;
+}
+
+.get-know-list-item {
+    list-style-type: none;
+    color: #5a7184;
+    font-size: 20px;
+}
+
+.hr-line {
+    background-color: #5a7184;
+}
+
+.rahul-bootasrap {
+    font-size: 20px;
+    color: #5a7184;
+    font-weight: 500;
+    font-style: italic;
+}
